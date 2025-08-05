@@ -84,9 +84,7 @@ conda activate HBHM
 - Only trains hierarchy-aware Bayesian head
 - Efficiently "Bayesianizes" deterministic models
 
-## Implementation Status
 Code Implementation Coming Soon
-The complete implementation of HBHM is currently under preparation and will be released.
 
 ## License
 This project is licensed under the MIT License
