@@ -1,0 +1,1 @@
+# KL divergence loss between posterior and structured prior 

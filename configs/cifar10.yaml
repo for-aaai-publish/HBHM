@@ -1,0 +1,6 @@
+# CIFAR-10 specific configuration
+dataset:
+  name: "CIFAR-10"
+  num_classes: 10
+hierarchy:
+  type: "two_level" 

@@ -1,0 +1,1 @@
+# Base variational inference layer abstract class 

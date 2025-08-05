@@ -1,0 +1,6 @@
+# Default configuration for HBHM training
+model:
+  name: "HBHM"
+training:
+  epochs: 100
+  batch_size: 128 

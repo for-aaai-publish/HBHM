@@ -1,0 +1,27 @@
+{
+  "tree": {
+    "name": "root",
+    "children": [
+      {
+        "name": "transportation",  
+        "children": [
+          {"name": "airplane", "class_id": 0},
+          {"name": "automobile", "class_id": 1},
+          {"name": "ship", "class_id": 8},
+          {"name": "truck", "class_id": 9}
+        ]
+      },
+      {
+        "name": "animals",
+        "children": [
+          {"name": "bird", "class_id": 2},
+          {"name": "cat", "class_id": 3},
+          {"name": "deer", "class_id": 4},
+          {"name": "dog", "class_id": 5},
+          {"name": "frog", "class_id": 6},
+          {"name": "horse", "class_id": 7}
+        ]
+      }
+    ]
+  }
+} 

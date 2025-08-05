@@ -1,0 +1,1 @@
+# Structured direct prior with topology-aware generation 

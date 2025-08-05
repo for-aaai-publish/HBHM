@@ -1,0 +1,1 @@
+# Prior geometry shaping losses (triplet margin and diversity) 
